@@ -1,12 +1,12 @@
 # Data Scientist
 
-### Habilidades técnicas: Python, SQL, SAS, R, Octave, Power BI
+#### Habilidades técnicas: Python, SQL, SAS, R, Octave, Power BI
 
 ## Educación
 - Lic. en Ingeniería en Ciencias de la Computación | Universidad Francisco Marroquín (2019)
 - Data Scientist Bootcamp | Triple Ten Academy
 
-# Experiencia Laboral
+## Experiencia Laboral
 ** Analista de Información de Riesgos @ Banco Promerica Guatemala (Enero 2021 - Presente)
 - Generar y mantener sistemas de información para gerencia (SAS Enterprise Guide, R)
 - Crear modelos para manejo de riesgo de tarjeta de crédito (SAS Enterprise Miner, R).
