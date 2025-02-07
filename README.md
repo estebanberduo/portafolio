@@ -23,7 +23,7 @@
 
 Proyecto para generar mapas de los distintos caminos por tipo y distancia de la ciudad capital utilizando shapefiles de caminos a nivel continental y de fronteras de países a nivel mundial, aplicando conceptos de GIS y matplotlib para visualizar las áreas con menor capacidad de comunicación con el resto del país.
 
-![Map](https://github.com/estebanberduo/MappingRoads/blob/main/GT_Roads.png)
+![Map](/assets/img/GT_Roads_distance2capital.png)
 
 ### Proyecto de predicción de cancelación de servicios
 [Repositorio](https://github.com/estebanberduo/ProyectoFinalTripleTen)
